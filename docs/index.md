@@ -2,7 +2,7 @@
 ## Links
 <iframe src="https://huggingface.co/spaces/danielrole/portfolio" width="100%" height="600" style="border:none;"></iframe>
 
-<a href="https://huggingface.co/spaces/tu-usuario/mi-chatbot" target="_blank">Probar Chatbot</a>
+<a href="https://huggingface.co/spaces/danielrole/portfolio" target="_blank">Probar Chatbot</a>
 
 
 ## MINST: MLP & CNN aproximation
