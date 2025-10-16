@@ -1,4 +1,7 @@
 # My Pathway in Data Science
+## Links
+
+
 ## MINST: MLP & CNN aproximation
 As part of my work in the [Seminar on Statistical Machine Learning](https://web.fciencias.unam.mx/docencia/horarios/presentacion/333194) taught in the UNAM-Faculty of Sciences, in collaboration with my team, we develop an approach to classify the MINST dataset
 
