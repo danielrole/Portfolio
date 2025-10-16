@@ -1,9 +1,9 @@
 # My Pathway in Data Science
 ## ¿Alguna duda?, Preguntale a mi asistente RAG
 
-<iframe src="https://huggingface.co/spaces/danielrole/portfolio" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="https://danielrole-portfolio.hf.space/?logs=build&__theme=system&deep_link=aEFeRzja7k0" width="100%" height="600" style="border:none;"></iframe>
 
-<a href="https://huggingface.co/spaces/danielrole/portfolio" target="_blank">Probar Chatbot</a>
+<a href="https://danielrole-portfolio.hf.space/?logs=build&__theme=system&deep_link=aEFeRzja7k0" target="_blank">Probar Chatbot</a>
 
 
 ## MINST: MLP & CNN aproximation
