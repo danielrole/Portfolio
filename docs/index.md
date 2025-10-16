@@ -1,8 +1,8 @@
 # My Pathway in Data Science
 ## Links
-<iframe src="https://huggingface.co/spaces/danielrole/portfolio" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="https://danielrole-portfolio.hf.space/?__theme=system&deep_link=m85GpM-hWlo" width="100%" height="600" style="border:none;"></iframe>
 
-<a href="https://huggingface.co/spaces/danielrole/portfolio" target="_blank">Probar Chatbot</a>
+<a href="https://danielrole-portfolio.hf.space/?__theme=system&deep_link=m85GpM-hWlo" target="_blank">Probar Chatbot</a>
 
 
 ## MINST: MLP & CNN aproximation
