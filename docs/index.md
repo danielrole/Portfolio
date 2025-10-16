@@ -1,6 +1,5 @@
 # My Pathway in Data Science
-## Links
-<iframe src="https://danielrole-portfolio.hf.space/?__theme=system&deep_link=m85GpM-hWlo" width="100%" height="600" style="border:none;"></iframe>
+## ¿Alguna duda?, Preguntale a mi asistente RAG
 
 <a href="https://danielrole-portfolio.hf.space/?__theme=system&deep_link=m85GpM-hWlo" target="_blank">Probar Chatbot</a>
 
